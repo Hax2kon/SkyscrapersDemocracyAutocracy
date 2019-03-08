@@ -7,10 +7,10 @@ Political Research Quarterly (Forthcoming)
 
 The replication material is organized in folders as follows:
 
-*Production_of_Skyscraper_data*: Contains material to organize all skyscrapers at www.skyscrapercenter.com into a data.frame
-*Produce_Country_Year_Formats*: Structures the skyscrapers into as country-year format, and combines this with data from www.v-dem.net (the V-Dem data must be donwloaded separately)
-*Data*: For those who don't bother re-creating the data set, her are the .rdata-files necessary to reproduce the different items in the article. Notice that these datasets differ somewhat from the ones produced by "Produce_Country_Year_Formats", mainly because we have removed all variables that are never used in the paper or its online appendix.
-*Analyses*: These scritps reproduce the different items in the paper, as well as all items in the online appendix.
+- *Production_of_Skyscraper_data*: Contains material to organize all skyscrapers at www.skyscrapercenter.com into a data.frame
+- *Produce_Country_Year_Formats*: Structures the skyscrapers into as country-year format, and combines this with data from www.v-dem.net (the V-Dem data must be donwloaded separately)
+- *Data*: For those who don't bother re-creating the data set, her are the .rdata-files necessary to reproduce the different items in the article. Notice that these datasets differ somewhat from the ones produced by "Produce_Country_Year_Formats", mainly because we have removed all variables that are never used in the paper or its online appendix.
+- *Analyses*: These scritps reproduce the different items in the paper, as well as all items in the online appendix.
 
 Below follows a description of the content of the different folders:
 
